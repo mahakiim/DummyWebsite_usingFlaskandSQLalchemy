@@ -7,7 +7,7 @@ users = []
 
 @app.route('/')
 def home():
-    return "Welcome to the Home Page!"
+    return render_template('home.html')
 
 @app.route('/register', methods=['GET', 'POST'])
 def register():

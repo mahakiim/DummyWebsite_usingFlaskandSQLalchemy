@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+.v1_16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1024px;
+  background: rgba(27, 38, 44, 1);
+  overflow: hidden;
+}
+
+.v1_36 {
+  position: absolute;
+  top: 137px;
+  left: 144px;
+  width: calc(100% - 288px);
+  height: 750px;
+  background: linear-gradient(rgba(50, 130, 184, 1), rgba(187, 225, 250, 1));
+  border-radius: 40px;
+  overflow: hidden;
+}
+
+.v1_39 {
+  position: absolute;
+  top: 224px;
+  left: 234px;
+  width: 486px;
+  height: 576px;
+  background: rgba(187, 225, 250, 1);
+  border-radius: 70px;
+  overflow: hidden;
+}
+
+.v1_38 {
+  position: absolute;
+  top: 378px;
+  left: 267px;
+  width: 419px;
+  height: 267px;
+  background: url("../images/v1_38.png") center center / cover no-repeat;
+  overflow: hidden;
+}
+
+.v1_55 {
+  position: absolute;
+  top: 240px;
+  left: 866px;
+  width: 322px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+}
+
+.v1_63,
+.v1_64,
+.v1_65 {
+  position: absolute;
+  font-family: 'Sans Serif Collection', sans-serif;
+  font-size: 25px;
+  color: rgba(0, 0, 0, 1);
+}
+
+.v1_63 {
+  top: 371px;
+  left: 777px;
+  width: 185px;
+  text-align: center;
+  bottom:1000px
+}
+
+.v1_64 {
+  top: 481px;
+  left: 784px;
+  width: 185px;
+  text-align: center;
+}
+
+.v1_65 {
+  top: 592px;
+  left: 784px;
+  width: 185px;
+  text-align: center;
+}
+
+.v1_57,
+.v1_66,
+.v1_67,
+.v1_68 {
+  position: absolute;
+  top: 398px;
+  left: 784px;
+  width: 486px;
+  height: 57px;
+  border: 2px solid rgba(0, 0, 0, 1);
+  border-radius: 20px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.v1_66 {
+  top: 508px;
+}
+
+.v1_67 {
+  top: 628px;
+}
+
+.v1_68 {
+  top: 712px;
+  width: 225px;
+  height: 61px;
+  background: rgba(27, 38, 44, 1);
+  text-align: center;
+}
+
+.v1_69 {
+  position: absolute;
+  top: 735px;
+  left: 952px;
+  width: 149px;
+  font-family: 'Sans Serif Collection', sans-serif;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+}
